@@ -1,0 +1,6 @@
+{
+  "name": "Bé Học Đánh Vần",
+  "description": "Ứng dụng học đánh vần tiếng Việt chuẩn hóa offline cho trẻ em với âm thanh phát âm rõ ràng, trò chơi tương tác, thẻ hình 3D và báo cáo cho phụ huynh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
